@@ -4,3 +4,10 @@ Taking screenshot with time delay, which means it'll take a screenshot after som
 Give the time limit for go to that screen what you want to take a screenshot
 The screenshot will be saved in the directory where your code saved in your system
 You can save it in any format as your wish, but don't forget to mention the file extention like ( .jpg or .png ...... )
+
+modules used :
+  - pyautogui
+  - time  ( inbuilt module no need to download )
+
+Commands to download modules :
+  - pip install PyAutoGUI
